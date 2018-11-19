@@ -2,9 +2,15 @@
 
 ## Description
 
-Plot Neural Networks is a visualization python library inspired by [ANN Visualizer](https://github.com/Prodicode/ann-visualizer). This library is work with Keras model interface. It uses python's graphviz library to create a presentable graph of the neural network you are building.
+Plot Neural Networks is a visualization python library inspired by [ANN Visualizer](https://github.com/Prodicode/ann-visualizer). This library is working with Keras model interface. It uses python's graphviz library to create a presentable graph of the neural network you are building. Working for sequential and non-sequential models.
 
-![example model](https://image.ibb.co/cWJxKf/visual.png)
+For example if you have this keras model as input:
+
+![example keras model](https://image.ibb.co/fxcPzf/graph-test.png)
+
+You will have this visualisation:
+
+![example visualisation](https://image.ibb.co/cWJxKf/visual.png)
 
 ## Install
 
