@@ -4,7 +4,7 @@
 
 Plot Neural Networks is a visualization python library inspired by [ANN Visualizer](https://github.com/Prodicode/ann-visualizer). This library is work with Keras model interface. It uses python's graphviz library to create a presentable graph of the neural network you are building.
 
-![example model](https://image.ibb.co/gnJ6ef/visual.png)
+![example model](https://image.ibb.co/cWJxKf/visual.png)
 
 ## Install
 
